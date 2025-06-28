@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hey there, I’m Manindra Gupta
+👋 Hey there, I’m Manindra 
+
+
 🚀 Passionate Full-Stack Developer | 💡 Problem Solver | 🛠️ Tech Explorer
 
 I love turning ideas into real-world solutions through clean code and elegant design. Whether it's building scalable backend systems, crafting interactive UIs, or developing intelligent ML models, I bring creativity and precision to every project. 
