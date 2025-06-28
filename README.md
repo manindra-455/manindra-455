@@ -1,5 +1,8 @@
 # 💫 About Me:
-Final year student, enthusiast about Python and Backend dev. 
+👋 Hey there, I’m Manindra Gupta
+🚀 Passionate Full-Stack Developer | 💡 Problem Solver | 🛠️ Tech Explorer
+
+I love turning ideas into real-world solutions through clean code and elegant design. Whether it's building scalable backend systems, crafting interactive UIs, or developing intelligent ML models, I bring creativity and precision to every project. 
 
 
 ## 🌐 Socials:
